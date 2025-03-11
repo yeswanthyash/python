@@ -1,1 +1,1 @@
-# python
+# python:  Python program is a set of instructions written in the Python programming language, designed to perform a specific task by utilizing its object-oriented structure, clear syntax, and dynamic typing, making it suitable for various applications like web development, data analysis, machine learning, and automation, often praised for its readability and beginner-friendly nature.
